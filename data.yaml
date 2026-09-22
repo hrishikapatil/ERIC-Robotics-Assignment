@@ -1,0 +1,8 @@
+path: .
+train: data/images
+val: data/images
+
+names:
+  0: cone
+  1: barrier
+  2: stop_sign
