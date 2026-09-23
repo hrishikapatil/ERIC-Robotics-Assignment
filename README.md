@@ -170,7 +170,7 @@ results/distance/
 
 This project demonstrates a modular computer vision pipeline for navigation-relevant object detection, distance estimation and CPU inference optimization.
 
-The system successfully performs object detection and distance estimation and demonstrates a measured improvement from **7.07 FPS to 14.27 FPS**, corresponding to approximately **2.02× speed improvement** after reducing the input resolution from 640 × 640 to 320 × 320.
+The system successfully performs object detection and distance estimation and demonstrates a measured improvement from ** 3.36 FPS to 5.92 FPS**, corresponding to approximately **2.45× speed improvement** after reducing the input resolution from 640 × 640 to 320 × 320.
 
 ---
 
